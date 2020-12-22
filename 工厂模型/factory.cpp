@@ -31,7 +31,7 @@ public:
 		std::cout << "得到一个飞路粉" << std::endl;
 	}
 	void play() {
-		std::cout << "动力装甲因太过脆弱而被损坏" << std::endl;
+		std::cout << "飞路粉太香招来苍蝇" << std::endl;
 	}
 };
 
